@@ -1,5 +1,5 @@
 <component name="ProjectRunConfigurationManager">
-  <configuration default="false" name="myfirstlesson" type="PythonConfigurationType" factoryName="Python" singleton="false">
+  <configuration default="false" name="2lessonspython" type="PythonConfigurationType" factoryName="Python" singleton="false">
     <module name="basic" />
     <option name="INTERPRETER_OPTIONS" value="" />
     <option name="PARENT_ENVS" value="true" />
