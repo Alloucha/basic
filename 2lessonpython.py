@@ -34,7 +34,17 @@ print(introduction('James', 'Bond'))
 
 
 def dog_years(name, age):
-    return name + ' you are ' + str(age*7) + ' years old in dog years'
+    return name + ' you are ' + str(age * 7) + ' years old in dog years'
 
 
 print(dog_years('Lola', 16))
+
+
+def large_power(base, exponent):
+    if base ** exponent > 5000:
+        return True
+    else:
+        return False
+
+
+print(large_power(2, 14))
